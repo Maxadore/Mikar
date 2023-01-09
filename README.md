@@ -32,7 +32,7 @@ Puisqu'il s'agit d'un projet académique, il n'est pas possible de contribuer di
 
 | [![Rubal Khan](https://images-ext-1.discordapp.net/external/QBc6cB7rQIog4U_M3wlUJVH8JSQW7XXFmq8nUmLUyDg/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/561598364219867156/5b2e5d9fcaca2727c1cec135551a6a98.png?width=468&height=350)](https://github.com/) | [![Maxime Desnoues]()](https://github.com/) | [![Bastien Crosnier]()](https://github.com/) | [![Dang Tony]()](https://github.com/) | [![Enzo Bosse]()](https://github.com/) | [![Tiavina]()](https://github.com/) |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [Rubal Khan](https://github.com/) | [Maxime Desnoues]([https://github.com)(https://github.com/Maxadore)/)](https://github.com/Maxadore/) |  [Bastien Crosnier](https://github.com/) | [Tony Dang](https://github.com/) | [Enzo Bosse](https://github.com/) | [Tiavina](https://github.com/) |
+| [Rubal Khan](https://github.com/) | [Maxime Desnoues]([(https://github.com/Maxadore)/)](https://github.com/Maxadore/) |  [Bastien Crosnier](https://github.com/) | [Tony Dang](https://github.com/) | [Enzo Bosse](https://github.com/) | [Tiavina](https://github.com/) |
 | _Lead projet_ | _Lead dev_ | _Lead gameplay_ | _Developper_ | _Developper_ | _Developper_ |
 
 

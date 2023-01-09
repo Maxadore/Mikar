@@ -1,4 +1,4 @@
-# Mikar ![LemmingGif](https://media.discordapp.net/attachments/1049962809338896384/1050009234668015626/096c2a84-c1bd-4759-a828-dfe051c19bab.webp?width=702&height=468)
+# Mikar ![LemmingGif](https://media.discordapp.net/attachments/1049962809338896384/1050009234668015626/096c2a84-c1bd-4759-a828-dfe051c19bab.webp?width=350&height=234)
 
 Mikar est un jeu de plateforme développée en C++ SFML par la team Unranked. Il a été développé durant notre 2ème année d'étude pendant une période de 6mois au sein du [Gaming Campus](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html)
 

@@ -28,12 +28,7 @@ Since this is an academic project, it is not possible to contribute directly to 
 
 ## Authors
 
-| [![KHAN Rubal]()](https://github.com/)
-| [![CROSNIER Bastien]()](https://github.com/)
-| [![DESNOUES Maxime]()](https://github.com/)
-| [![DANG Tony]()](https://github.com/)
-| [![RANARIVELO Tiavina]()](https://github.com/)
-| [![BOSSE Enzo]()](https://github.com/) |
+| [![KHAN Rubal]()](https://github.com/) | [![CROSNIER Bastien]()](https://github.com/) | [![DESNOUES Maxime]()](https://github.com/) | [![DANG Tony]()](https://github.com/) | [![RANARIVELO Tiavina]()](https://github.com/) | [![BOSSE Enzo]()](https://github.com/) |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | [Rubal Khan](https://github.com/) | [Maxime Denoues](https://github.com/Maxadore) |  [Bastien Crosnier](https://github.com/) | [Tony Dang](https://github.com/) | [Enzo Bosse](https://github.com/) | [Tiavina](https://github.com/) |
 | _Lead projet_ | _Lead dev_ | _Lead gameplay_ | _Developper_ | _Developper_ | _Developper_ |

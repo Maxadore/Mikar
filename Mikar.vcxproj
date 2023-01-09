@@ -71,14 +71,14 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>D:\SFML\Projects\Mikar\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\SFML\Projects\Mikar\lib;$(LibraryPath)</LibraryPath>
-    <PublicIncludeDirectories>D:\SFML\Projects\Mikar\include;$(PublicIncludeDirectories)</PublicIncludeDirectories>
+    <IncludePath>..\Mikar\include;$(IncludePath)</IncludePath>
+    <LibraryPath>..\Mikar\lib;$(LibraryPath)</LibraryPath>
+    <PublicIncludeDirectories>..\Mikar\include;$(PublicIncludeDirectories)</PublicIncludeDirectories>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>D:\SFML\Projects\Mikar\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\SFML\Projects\Mikar\lib;$(LibraryPath)</LibraryPath>
-    <PublicIncludeDirectories>D:\SFML\Projects\Mikar\include;$(PublicIncludeDirectories)</PublicIncludeDirectories>
+    <IncludePath>..\Mikar\include;$(IncludePath)</IncludePath>
+    <LibraryPath>..\Mikar\lib;$(LibraryPath)</LibraryPath>
+    <PublicIncludeDirectories>..\Mikar\include;$(PublicIncludeDirectories)</PublicIncludeDirectories>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

@@ -28,7 +28,7 @@ Since this is an academic project, it is not possible to contribute directly to 
 
 ## Authors
 
-| [![KHAN Rubal]()](https://github.com/) | [![CROSNIER Bastien]()](https://github.com/) | [![DESNOUES Maxime]()](https://github.com/) | [![DANG Tony]()](https://github.com/) | [![RANARIVELO Tiavina]()](https://github.com/) | [![BOSSE Enzo]()](https://github.com/) |
+| [![KHAN Rubal](https://media.discordapp.net/attachments/1047436479066030145/1062126397897842748/5b2e5d9fcaca2727c1cec135551a6a981.png)](https://github.com/) | [![CROSNIER Bastien]()](https://github.com/) | [![DESNOUES Maxime]()](https://github.com/) | [![DANG Tony]()](https://github.com/) | [![RANARIVELO Tiavina]()](https://github.com/) | [![BOSSE Enzo]()](https://github.com/) |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | [KHAN Rubal](https://github.com/) | [CROSNIER Bastien](https://github.com/) | [DESNOUES Maxime](https://github.com/) | [DANG Tony](https://github.com/) | [RANARIVELO Tiavina](https://github.com/) | [BOSSE Enzo](https://github.com/) |
 | _Leader Project_ | _Leader Gameplay_ | _Leader Dev_ | _Dev_ | _Dev_ | _Dev_ |

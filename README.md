@@ -1,10 +1,10 @@
-# Mikar [](https://media.discordapp.net/attachments/1049962809338896384/1050009234668015626/096c2a84-c1bd-4759-a828-dfe051c19bab.webp?width=87&height=58)
+# Mikar ![](https://media.discordapp.net/attachments/1049962809338896384/1050009234668015626/096c2a84-c1bd-4759-a828-dfe051c19bab.webp?width=87&height=58)
 
-Mikar is a platform game developed in C++ with the SFML by the Unranked team. It was developed during our second year of study for a period of six months within the [Gaming Campus](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html)
+Mikar is a platform game developed in C++ with the SFML by the Unranked team. It was developed during our second year of study for a period of six months within the [Gaming Campus](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html).
 
 ![](https://media.discordapp.net/attachments/1050541279634796614/1050541893366333561/image.png)
 
-*Ceci est un preview de notre super jeu !*
+*This is a preview of our game !*
 
 ## Installation
 

@@ -17,7 +17,7 @@ Téléchargez simplement les fichiers de build contenus dans le .zip depuis [rel
 - **Mode difficile** : A venir
 - **Conception de modèles logiciels** : Plusieurs conceptions de modèles logiciels ont été utilisées dans l'implémentation afin d'avoir une structure de code claire.
 
-## Contributuin
+## Contribution
 
 Puisqu'il s'agit d'un projet académique, il n'est pas possible de contribuer directement à ce dépôt. Cela dit, n'hésitez pas à le modifier et à le faire vous même ! Pour ce faire, assurez-vous que vous disposez des éléments suivants :
 
@@ -30,7 +30,7 @@ Puisqu'il s'agit d'un projet académique, il n'est pas possible de contribuer di
 
 ## Authors
 
-| [![Rubal Khan](https://cdn.discordapp.com/avatars/561598364219867156/5b2e5d9fcaca2727c1cec135551a6a98.png?size=1024)](https://github.com/) | [![Maxime Desnoues]()](https://github.com/) |
+| [![Rubal Khan](https://cdn.discordapp.com/avatars/561598364219867156/5b2e5d9fcaca2727c1cec135551a6a98.png?size=1024)](https://github.com/) | [![Maxime Desnoues]()](https://github.com/) | [![Bastien Crosnier]()](https://github.com/) | [![Dang Tony]()](https://github.com/) | [![Enzo Bosse]()](https://github.com/) | [![Tiavina]()](https://github.com/) |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | [Rubal Khan](https://github.com/) | [Maxime Desnoues](https://github.com/) |  [Bastien Crosnier](https://github.com/) | [Tony Dang](https://github.com/) | [Enzo Bosse](https://github.com/) | [Tiavina](https://github.com/) |
 | _Lead projet_ | _Lead dev_ | _Lead gameplay_ | _Developper_ | _Developper_ | _Developper_ |

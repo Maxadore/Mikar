@@ -7,29 +7,33 @@ Mikar is a platform game developed in C++ with the SFML by the Unranked team. It
 *This is a preview of our game !*
 
 ## Installation
+Download the build files contained in the [releases]() zip file and run the Mikar.exe file.
 
-Téléchargez simplement les fichiers de build contenus dans le .zip depuis [releases]() et exécutez Mikar.exe.
-
-## Caractéristiques & Fonctionnalités
-- **5 niveaux différents :** Vous pouvez sélectionner un niveau plus ou moins complexe.
-- **Musique originale** : Toute la musique de fond et les effets spéciaux du jeu original ont été sélectionné par l'équipe Unranked.
-- **Mode difficile** : A venir
-- **Conception de modèles logiciels** : Plusieurs conceptions de modèles logiciels ont été utilisées dans l'implémentation afin d'avoir une structure de code claire.
+## Features and Functionalities
+- **5 Different Levels :** You can select more or less complex level.
+- **Hard Mode** : Coming soon !
+- **Original Music** : All background music and special effects from the original game were selected by the Unranked team.
+- **Software Template Design** : Several software template designs were used in the implementation in order to have a clear code structure.
 
 ## Contribution
 
-Puisqu'il s'agit d'un projet académique, il n'est pas possible de contribuer directement à ce dépôt. Cela dit, n'hésitez pas à le modifier et à le faire vous même ! Pour ce faire, assurez-vous que vous disposez des éléments suivants :
+Since this is an academic project, it is not possible to contribute directly to this repository. That said, feel free to modify it and do it yourself ! To do this, make sure you have the following :
 
-- **Un ordinateur.**
-- **Un compilateur C++**. Même si ce n'est pas forcément nécessaire, [VisualStudio Community](https://visualstudio.microsoft.com/fr/vs/community/).
+- **A Computer**
+- **A C++ Compiler :** Even if it is not necessarily necessary, [Visual Studio Community Edition](https://visualstudio.microsoft.com/fr/vs/community/).
 
-## Développé avec : 
+## Developed with
 
-* [SFML](https://www.sfml-dev.org/index-fr.php) - Utilisé comme moteur principal du jeu.
+* [SFML](https://www.sfml-dev.org/) : Used as a graphics library
 
 ## Authors
 
-| [![Rubal Khan](https://images-ext-1.discordapp.net/external/QBc6cB7rQIog4U_M3wlUJVH8JSQW7XXFmq8nUmLUyDg/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/561598364219867156/5b2e5d9fcaca2727c1cec135551a6a98.png?width=468&height=350)](https://github.com/) | [![Maxime Desnoues]()](https://github.com/) | [![Bastien Crosnier]()](https://github.com/) | [![Dang Tony]()](https://github.com/) | [![Enzo Bosse]()](https://github.com/) | [![Tiavina]()](https://github.com/) |
+| [![KHAN Rubal]()](https://github.com/)
+| [![CROSNIER Bastien]()](https://github.com/)
+| [![DESNOUES Maxime]()](https://github.com/)
+| [![DANG Tony]()](https://github.com/)
+| [![RANARIVELO Tiavina]()](https://github.com/)
+| [![BOSSE Enzo]()](https://github.com/) |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | [Rubal Khan](https://github.com/) | [Maxime Denoues](https://github.com/Maxadore) |  [Bastien Crosnier](https://github.com/) | [Tony Dang](https://github.com/) | [Enzo Bosse](https://github.com/) | [Tiavina](https://github.com/) |
 | _Lead projet_ | _Lead dev_ | _Lead gameplay_ | _Developper_ | _Developper_ | _Developper_ |

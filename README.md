@@ -31,7 +31,7 @@ Since this is an academic project, it is not possible to contribute directly to 
 | [![KHAN Rubal](https://media.discordapp.net/attachments/1047436479066030145/1062126397897842748/5b2e5d9fcaca2727c1cec135551a6a981.png)](https://github.com/) | [![CROSNIER Bastien](https://media.discordapp.net/attachments/1047436479066030145/1062127281079857202/4593f5fef18d9187023161f85ba26f5e1.png)](https://github.com/) | [![DESNOUES Maxime]()](https://github.com/) | [![DANG Tony]()](https://github.com/) | [![RANARIVELO Tiavina]()](https://github.com/) | [![BOSSE Enzo](https://media.discordapp.net/attachments/1047436479066030145/1062127540581449738/b88afe05901b740e584f5f20c1f38a3c.png)](https://github.com/) |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | [KHAN Rubal](https://github.com/) | [CROSNIER Bastien](https://github.com/) | [DESNOUES Maxime](https://github.com/) | [DANG Tony](https://github.com/) | [RANARIVELO Tiavina](https://github.com/) | [BOSSE Enzo](https://github.com/) |
-| _Leader Project_ | _Leader Gameplay_ | _Leader Dev_ | _Dev_ | _Dev_ | _Dev_ |
+| _Leader Project_ | _Leader Gameplay_ | _Leader Dev_ | _Developper_ | _Developper_ | _Developper_ |
 
 ## License
 

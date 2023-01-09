@@ -20,7 +20,7 @@ Download the build files contained in the [releases]() zip file and run the Mika
 Since this is an academic project, it is not possible to contribute directly to this repository. That said, feel free to modify it and do it yourself ! To do this, make sure you have the following :
 
 - **A Computer**
-- **A C++ Compiler :** Even if it is not necessarily necessary, [Visual Studio Community Edition](https://visualstudio.microsoft.com/fr/vs/community/).
+- **A C++ Compiler :** Even if it is not necessarily necessary, [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/).
 
 ## Developed with
 

@@ -4,7 +4,8 @@ Mikar est un jeu de plateforme développée en C++ SFML par la team Unranked. Il
 
 
 ![](https://media.discordapp.net/attachments/1050541279634796614/1050541893366333561/image.png)
-*Ceci est un preview de notre super jeu ! *
+
+*Ceci est un preview de notre super jeu !*
 
 ## Installation
 

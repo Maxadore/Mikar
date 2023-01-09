@@ -35,9 +35,9 @@ Since this is an academic project, it is not possible to contribute directly to 
 
 ## License
 
-Tout droit réservés.
+All Rights Reserved
 
-## Remerciements
+## Thanks
 
-Merci à:
+Thanks to :
 - Gaming Campus

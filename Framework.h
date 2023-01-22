@@ -21,8 +21,8 @@ using namespace std;			// Namespace C++ Standard Library
 
 // Const
 
-const int WIN_WIDTH = 768;		// 25 tiles of 32 px
-const int WIN_HEIGHT = 1366;		// 18 tiles of 32 px
+const int WIN_WIDTH = 800;		// 25 tiles of 32 px
+const int WIN_HEIGHT = 576;		// 18 tiles of 32 px
 const int SPRITE_SIZE = 32;		// Sprites 32x32 pixels
 
 // Include headers

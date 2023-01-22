@@ -21,8 +21,8 @@ using namespace std;			// Namespace C++ Standard Library
 
 // Const
 
-const int WIN_WIDTH = 768;		// 25 tiles of 32 px
-const int WIN_HEIGHT = 1366;		// 18 tiles of 32 px
+const int WIN_WIDTH = 800;		// 25 tiles of 32 px
+const int WIN_HEIGHT = 576;		// 18 tiles of 32 px
 const int SPRITE_SIZE = 32;		// Sprites 32x32 pixels
 
 // Include headers
@@ -42,12 +42,16 @@ const int SPRITE_SIZE = 32;		// Sprites 32x32 pixels
 
 // Textures
 
-#define SPLASH_SCENE_BACKGROUND_FILEPATH "res/Splash Background.png"
-#define MAIN_MENU_BACKGROUND_FILEPATH "res/menu.png"
+#define SPLASH_SCENE_BACKGROUND_FILEPATH "res/unranked.png"
+#define MAIN_MENU_BACKGROUND_FILEPATH "res/menu_bg.png"
 #define GAME_BACKGROUND_FILEPATH "res/game.png"
 
-#define GAME_TITLE_FILEPATH "res/title.png"
-#define PLAY_BUTTON_FILEPATH "res/play.png"
+#define GAME_TITLE_FILEPATH "res/menu_title.png"
+#define PLAY_BUTTON_FILEPATH "res/menu_play.png"
+
+// Sounds
+
+// Musics
 
 
 

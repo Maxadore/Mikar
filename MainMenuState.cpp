@@ -15,7 +15,7 @@ void MainMenuState::Init()
 	m_title.setTexture(this->m_data->m_assets.GetTexture("Game Title"));
 	m_playButton.setTexture(this->m_data->m_assets.GetTexture("Play Button"));
 
-	m_title.setPosition((WIN_WIDTH / 2) - (m_title.getGlobalBounds().width / 2), m_title.getGlobalBounds().height / 2);
+	m_title.setPosition((WIN_WIDTH / 2), (WIN_HEIGHT / 2));
 	m_title.setScale(0.5, 0.5);
 	m_playButton.setPosition((WIN_WIDTH / 2) - (m_playButton.getGlobalBounds().width / 2), (WIN_HEIGHT / 2) - (m_playButton.getGlobalBounds().height / 2));
 	m_playButton.setScale(0.5, 0.5);

@@ -1,3 +1,0 @@
-﻿  Game.cpp
-D:\SFML\Projets\Mikar\Game.cpp(6,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-  Mikar.vcxproj -> D:\SFML\Projets\Mikar\x64\Debug\Mikar.exe

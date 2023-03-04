@@ -7,11 +7,9 @@
 using namespace std;
 using namespace sf;
 
-Game::Game() : m_window(VideoMode(M_WINDOW_WIDTH, M_WINDOW_HEIGHT, 32), "Mikar", Style::Default)
+Game::Game() : M_WINDOW_WIDTH(800), M_WINDOW_HEIGHT(576), m_window(VideoMode(M_WINDOW_WIDTH, M_WINDOW_HEIGHT, 32), "Mikar", Style::Default), m_cube(Cube(Vector2f(32, 32)))
 {
 	m_window.setVerticalSyncEnabled(true);
-	
-	m_cube = Cube(Vector2f(32, 32));
 }
 
 void Game::run()

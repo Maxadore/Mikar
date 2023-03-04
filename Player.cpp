@@ -5,7 +5,7 @@
 using namespace std;
 using namespace sf;
 
-Player::Player() : m_animation(0, DOWN), m_isIdle(true), m_needToResetAnimation(false)
+Player::Player() : M_SIZE(32), M_SPEED(1), m_animation(0, DOWN), m_isIdle(true), m_needToResetAnimation(false)
 {
     // Chargement du visuel
 	if (!m_texture.loadFromFile("resources/player_sheet.png"))

@@ -19,9 +19,9 @@ public:
 
 private:
 	// 25 tuiles de 32 pixels
-	const int M_WINDOW_WIDTH = 800;
+	const int M_WINDOW_WIDTH;
 	// 18 tuiles de 32 pixels
-	const int M_WINDOW_HEIGHT = 576;
+	const int M_WINDOW_HEIGHT;
 	
 	sf::RenderWindow m_window;
 	Input m_input;

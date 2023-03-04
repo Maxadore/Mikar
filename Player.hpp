@@ -17,9 +17,9 @@ public:
 
 private:
 	// Sprite de 32x32 pixels
-	const int M_SIZE = 32;
+	const int M_SIZE;
 	// Vitesse
-	const int M_SPEED = 1;
+	const int M_SPEED;
 	
 	// Préparation pour l'affichage
 	sf::Texture m_texture;

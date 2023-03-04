@@ -1,3 +1,12 @@
-﻿  main.cpp
-C:\Users\Admin\Desktop\Mikar\main.cpp(165,43): warning C4018: '>=' : incompatibilité signed/unsigned
+﻿  Cube.cpp
+  Game.cpp
+  Input.cpp
+  Player.cpp
+C:\Users\Admin\Desktop\Mikar\Player.cpp(43,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Admin\Desktop\Mikar\Player.cpp(49,27): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+C:\Users\Admin\Desktop\Mikar\Player.cpp(55,30): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Admin\Desktop\Mikar\Player.cpp(61,30): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+C:\Users\Admin\Desktop\Mikar\Player.cpp(88,36): warning C4018: '>=' : incompatibilité signed/unsigned
+  main.cpp
+  Génération de code en cours...
   Mikar.vcxproj -> C:\Users\Admin\Desktop\Mikar\x64\Debug\Mikar.exe

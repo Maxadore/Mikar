@@ -1,3 +1,4 @@
+#include <SFML/Graphics.hpp>
 #include "Input.hpp"
 
 using namespace sf;
